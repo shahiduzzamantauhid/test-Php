@@ -78,7 +78,7 @@
 
         <input class="submit_btn" type="submit" value="Send">
     </form>
-  <!---  <script>alert("hellow")cript> ?>
+  <!-- <<script>alert("hellow")cript> ?> -->
 
 
 
